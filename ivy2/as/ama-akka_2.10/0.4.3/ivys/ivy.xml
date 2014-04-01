@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
-	<info organisation="as" module="ama-akka_2.10" revision="0.4.3" status="release" publication="20140402001448">
+	<info organisation="as" module="ama-akka_2.10" revision="0.4.3" status="release" publication="20140402004030">
 		<description>
 		ama-akka
 		</description>
