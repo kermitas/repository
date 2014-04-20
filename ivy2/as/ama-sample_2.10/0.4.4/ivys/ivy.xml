@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
-	<info organisation="as" module="ama-sample_2.10" revision="0.4.4" status="release" publication="20140407150218">
+	<info organisation="as" module="ama-sample_2.10" revision="0.4.4" status="release" publication="20140421001406">
 		<description>
 		ama-sample
 		</description>
@@ -30,7 +30,7 @@
 		
 		<dependency org="org.scala-lang" name="scala-library" rev="2.10.4" conf="compile->default(compile)"/>
 		<dependency org="as" name="ama-all_2.10" rev="0.4.4" conf="compile->default(compile)"/>
-		<dependency org="com.typesafe.akka" name="akka-slf4j_2.10" rev="2.3.1" conf="compile->default(compile)"/>
-		<dependency org="ch.qos.logback" name="logback-classic" rev="1.1.1" conf="compile->default(compile)"/>
+		<dependency org="com.typesafe.akka" name="akka-slf4j_2.10" rev="2.3.2" conf="compile->default(compile)"/>
+		<dependency org="ch.qos.logback" name="logback-classic" rev="1.1.2" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>
