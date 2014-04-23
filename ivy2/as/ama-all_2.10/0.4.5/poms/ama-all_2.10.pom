@@ -21,10 +21,5 @@
             <artifactId>ama-core_2.10</artifactId>
             <version>0.4.5</version>
         </dependency>
-        <dependency>
-            <groupId>as</groupId>
-            <artifactId>ama-util_2.10</artifactId>
-            <version>0.4.5</version>
-        </dependency>
     </dependencies>
 </project>
